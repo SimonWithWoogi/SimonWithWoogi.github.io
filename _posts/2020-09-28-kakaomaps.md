@@ -5,7 +5,8 @@ author: Woogi
 date: 2020-09-27 18:43:00 +0800
 categories: [OpenAPI, KAKAO]
 tags: [open api]
-image: /assets/img/kakao/map_1.png
+image:
+  src: /assets/img/kakao/map_1.png
 ---
 
 ## <span style="color:darkblue">1. What is Kakao Open API</span>

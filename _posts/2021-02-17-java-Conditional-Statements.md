@@ -4,8 +4,8 @@ author: Woogi
 date: 2021-02-17 16:40:00 +0800
 categories: [Language, JAVA]
 tags: [java]
-image: /assets/img/java/java_logo.png
-
+image:
+  src: /assets/img/java/java_logo.png
 ---
 
 ## <span style="color:darkblue">1. What is 조건문</span>

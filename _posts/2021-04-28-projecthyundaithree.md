@@ -4,7 +4,8 @@ author: Simon Anderson
 date: 2021-04-28 18:31:00 +0800
 categories: [Project, Data Science]
 tags: [BigData, Cloud, AI, IoT, AIoT, TextMining, Python, CSharp, Naver, Hyundai, Kakao]
-image: /assets/img/CI/Hyundai.png
+image:
+  src: /assets/img/CI/Hyundai.png
 math: true
 ---
 

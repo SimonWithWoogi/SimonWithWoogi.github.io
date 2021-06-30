@@ -4,8 +4,8 @@ author: Woogi
 date: 2020-11-06 10:40:00 +0800
 categories: [OpenAPI, KAKAO]
 tags: [open api]
-image: /assets/img/kakao/search_2.png
-
+image:
+  src: /assets/img/kakao/search_2.png
 ---
 
 ## <span style="color:darkblue">1. What is Kakao Daum 검색 API</span>

@@ -4,7 +4,8 @@ author: Simon Anderson
 date: 2021-03-30 19:00:00 +0800
 categories: [Language, Engineering]
 tags: [BigData, DataMining, AI, MachineLearning, Statistics, writing]
-image: /assets/img/CI/IEEE.jpg
+image:
+  src: /assets/img/CI/IEEE.jpg
 math: true
 ---
 

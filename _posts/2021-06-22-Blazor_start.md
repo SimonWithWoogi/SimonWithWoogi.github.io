@@ -4,7 +4,8 @@ author: Woogi
 date: 2021-06-22 21:27:00 +0800
 categories: [FrameWork, Blazor]
 tags: [Blazor]
-image: /assets/img/Blazor/logo.png
+image:
+  src: /assets/img/Blazor/logo.png
 ---
 
 ## <span style="color:darkblue">Blazor</span>

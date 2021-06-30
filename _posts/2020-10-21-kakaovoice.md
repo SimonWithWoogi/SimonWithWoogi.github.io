@@ -4,8 +4,8 @@ author: Woogi
 date: 2020-10-21 09:14:00 +0800
 categories: [OpenAPI, KAKAO]
 tags: [open api]
-image: /assets/img/kakao/voice_1.png
-
+image:
+  src: /assets/img/kakao/voice_1.png
 ---
 
 ## <span style="color:darkblue">1. What is Kakao 음성 API</span>

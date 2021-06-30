@@ -4,7 +4,8 @@ author: Simon Anderson
 date: 2021-02-24 18:55:00 +0800
 categories: [MATLAB, Applied]
 tags: [MATLAB, Algorithm, AI, DeepLearning, Statistics]
-image: /assets/img/MATLAB/11_Preview.png
+image:
+  src: /assets/img/MATLAB/11_Preview.png
 math: true
 ---
 

@@ -4,7 +4,8 @@ author: Simon Anderson
 date: 2021-01-30 01:20:00 +0800
 categories: [MATLAB, Applied]
 tags: [MATLAB, Algorithm, MachineLearning, AI, DeepLearning, Optimization, Mathmetics]
-image: /assets/img/MATLAB/10_Preview.png
+image:
+  src: /assets/img/MATLAB/10_Preview.png
 math: true
 ---
 
@@ -181,7 +182,7 @@ $$
 $$
 K(x, z) = \phi(x) \cdot \phi(z)
 $$
- 
+
 
 그리고 이번에는 `2.3. Margin` 에서 내적이 나타나도록 수식을 바꾼 `Wolfe dual` 의 식을 한번 꺼내보겠습니다.
 
@@ -197,7 +198,7 @@ $$
 $$
 \mathcal{L} = \sum_{i=1}^{n}\alpha_i-\frac{1}{2}\sum_{i=1}^{n}\sum_{j=1}^{n}\alpha_i \alpha_j y_i y_j \phi(x_i) \cdot \phi(x_j)\\
 $$
- 
+
 
 빌드업이 너무 잘되어 있어서 `비선형 SVM` 은 쉽게 넘어갈 수 있겠습니다.
 
@@ -230,7 +231,7 @@ $$
 $$
 f(x)=\sum_{a_i\neq0,\hat{a_i}\neq0}(a_i-\hat{a_i})K(x,x_i)+b
 $$
-  
+
 
 여기서 주요점은 `summation` 은 아래조건입니다. `결정경계` 에서 잘 분류된 샘플은 들어올 필요없는 것다는 점이며, 즉 이 수식에는 `Support vector` 만 들어간다는 점이죠. 이제 `MATLAB` 실습을 진행하겠습니다.
 

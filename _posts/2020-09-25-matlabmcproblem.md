@@ -4,7 +4,8 @@ author: Simon Anderson
 date: 2020-09-25 14:10:00 +0800
 categories: [MATLAB, Applied]
 tags: [MATLAB, java, DeepLearning, Algorithm, DataStructure]
-image: /assets/img/MATLAB/2_Preview.png
+image:
+  src: /assets/img/MATLAB/2_Preview.png
 math: true
 ---
 

@@ -5,7 +5,8 @@ author: Simon Anderson
 date: 2020-10-26 22:37:00 +0800
 categories: [MATLAB, Quality]
 tags: [MATLAB,Visualization, QualityManagement, Improvement, Statistics, Quality]
-image: /assets/img/MATLAB_Quality/1_Preview.png
+image:
+  src: /assets/img/MATLAB_Quality/1_Preview.png
 math: true
 ---
 

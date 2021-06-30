@@ -4,8 +4,8 @@ author: Woogi
 date: 2021-03-22 16:40:00 +0800
 categories: [Language, Cpp]
 tags: [Cpp]
-image: /assets/img/Cpp/Cpp_logo.png
-
+image:
+  src: /assets/img/Cpp/Cpp_logo.png
 ---
 
 ## <span style="color:darkblue">string 을 LPCWSTR 로 변환</span>
@@ -40,5 +40,4 @@ int main()
 ```
 
 요렇게 하면 C++ 의 기본 제공 레퍼런스인 string 형을 LPCWSTR로 변환이 됩니다 ! 
-
 

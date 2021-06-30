@@ -4,7 +4,8 @@ author: Simon Anderson
 date: 2020-11-16 19:17:00 +0800
 categories: [MATLAB, Applied]
 tags: [MATLAB, Python, java, Algorithm, Search, AI, DeepLearning, Optimization, Heuristics]
-image: /assets/img/MATLAB/7_Preview.png
+image:
+  src: /assets/img/MATLAB/7_Preview.png
 math: true
 ---
 

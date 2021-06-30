@@ -4,8 +4,8 @@ author: Woogi
 date: 2021-01-29 15:10:00 +0800
 categories: [Language, JAVA]
 tags: [java]
-image: /assets/img/java/java_logo.png
-
+image:
+  src: /assets/img/java/java_logo.png
 ---
 
 ## <span style="color:darkblue">1. What is JAVA</span>

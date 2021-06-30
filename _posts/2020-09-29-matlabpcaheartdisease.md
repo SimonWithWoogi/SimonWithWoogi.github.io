@@ -4,7 +4,8 @@ author: Simon Anderson
 date: 2020-09-28 10:11:00 +0800
 categories: [MATLAB, Applied]
 tags: [MATLAB,Data Mining, Kaggle, Medical]
-image: /assets/img/MATLAB/3_Preview.png
+image:
+  src: /assets/img/MATLAB/3_Preview.png
 math: true
 ---
 

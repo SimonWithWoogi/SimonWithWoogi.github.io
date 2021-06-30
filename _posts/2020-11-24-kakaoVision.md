@@ -4,8 +4,8 @@ author: Woogi
 date: 2020-11-24 15:10:00 +0800
 categories: [OpenAPI, KAKAO]
 tags: [open api]
-image: /assets/img/kakao/vision_4.png
-
+image:
+  src: /assets/img/kakao/vision_4.png
 ---
 
 ## <span style="color:darkblue">1. What is Kakao Vision API</span>

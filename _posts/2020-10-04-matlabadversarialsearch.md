@@ -4,7 +4,8 @@ author: Simon Anderson
 date: 2020-10-04 19:51:00 +0800
 categories: [MATLAB, Applied]
 tags: [MATLAB, java, DeepLearning, Algorithm, DataStructure, Game]
-image: /assets/img/MATLAB/4_Preview.png
+image:
+  src: /assets/img/MATLAB/4_Preview.png
 math: true
 ---
 

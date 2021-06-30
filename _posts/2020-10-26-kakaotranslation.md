@@ -4,8 +4,8 @@ author: Woogi
 date: 2020-10-26 10:11:00 +0800
 categories: [OpenAPI, KAKAO]
 tags: [open api]
-image: /assets/img/kakao/translate_1.png
-
+image:
+  src: /assets/img/kakao/translate_1.png
 ---
 
 ## <span style="color:darkblue">1. What is Kakao 번역 API</span>
